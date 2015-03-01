@@ -1,0 +1,16 @@
+cask install virtualbox
+cask install skype
+cask install fugu
+cask install iterm2
+cask install atom
+cask install the-unarchiver
+
+# Dev Tools
+cask install github
+cask install sequel-pro
+cask install sourcetree
+
+# Archive
+# cask install adium
+# cask install cocoapacketanalyzer
+# cask install gimp
