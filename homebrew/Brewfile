@@ -1,0 +1,13 @@
+# install apple-gcc42
+# install gcc
+install caskroom/cask/brew-cask
+install grc
+install git
+install git-flow
+install gnupg
+# install graphicsmagick
+install imagemagick
+install p7zip
+install redis
+install subversion
+install wget
