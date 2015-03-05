@@ -1,13 +1,29 @@
-# install apple-gcc42
-# install gcc
-install caskroom/cask/brew-cask
-install grc
-install git
-install git-flow
-install gnupg
-# install graphicsmagick
-install imagemagick
-install p7zip
-install redis
-install subversion
-install wget
+brew 'git'
+brew 'git-flow'
+brew 'openssl'
+brew 'pkg-config'
+brew 'readline'
+brew 'scons'
+brew 'spark'
+brew 'sqlite'
+brew 'subversion', args: ['with-java']
+brew 'wget'
+cask 'atom'
+cask 'box-sync'
+cask 'eclipse-jee'
+cask 'firefox'
+cask 'fugu'
+cask 'github'
+cask 'google-chrome'
+cask 'iterm2'
+cask 'postbox'
+cask 'rubymine'
+cask 'sequel-pro'
+cask 'skype'
+cask 'slack'
+cask 'sourcetree'
+cask 'textmate'
+cask 'the-unarchiver'
+cask 'vagrant'
+cask 'virtualbox'
+cask 'webstorm'
